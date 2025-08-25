@@ -2,3 +2,4 @@
 # Example:
 # requests
 fastapi
+hvac
