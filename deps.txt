@@ -1,3 +1,4 @@
 # Add plugin-specific dependencies here, one per line.
 # Example:
 # requests
+fastapi
